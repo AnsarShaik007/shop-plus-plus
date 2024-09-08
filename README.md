@@ -12,6 +12,21 @@ The admin also plays an important role for this project as the admin is the one 
 - Order History.
 
 ## Technologies used:-
-1. Front-End
-  -React Js
-  -Tailwind Css
+1. Front-End:
+- React Js
+- Tailwind Css
+2. Backend:
+- Firebase(Auth).
+3. Database:
+- Firestore.
+
+## Software required:-
+1. Vs-code.
+2. node js.
+
+## How to run.
+1. Clone the repo in your local system
+2. install the dependencies **npm install**.
+3. Open the terminal and type **npm run dev**.
+4. Hurray!! you are good to go
+
