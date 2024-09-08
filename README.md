@@ -45,4 +45,5 @@ The admin also plays an important role for this project as the admin is the one 
 - Add products page:
 ![addproduct](https://github.com/user-attachments/assets/038c7742-0cdd-40ca-9fc7-62ef5506e062)
 
-
+Thanks a lot,
+### Upgrad.
